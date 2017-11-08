@@ -1,0 +1,22 @@
+1)How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+--In linux terminal , I myself saw the difference between the two files and and two diff. versions makes it easier to see the bugs as i might not remember what changes i made previously. It becomes easier and thus faster to find the differnce and correct and realize why i did it.
+
+2)How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+--Benefits are that i can see and check who all are the efficient people working on the project and check the changes made. I can easily remember why i switched from previous code to newer one and easily rectify my mistakes and do not do that in future.
+
+3)What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+--Because doing so I m to decide when to commit , what to commit and from which name it should be identified.
+
+4)Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+--Because it is easy to find files and correpsonding changes done in other files.Otherwise we have to scan all the files and match their commit times
+
+5)How can you use the commands git log and git diff to view the history of files?
+-- 'git log' - This is used to show all the commit history along with its date and time of commit and Name which is utmost important to identify why that commit was made.
+	'git diff' - when we have found out the commit history we need to see the changes that were made and compare the two files.
+	
+6)How might using version control make you more confident to make changes that could break something?
+-- by using version control system,i can make as many changes i want and not to worry about what was the previous code was.
+
+7)Now that you have your workspace set up, what do you want to try using Git for?
+-- Using it for the project that is already been done but need some updations and modifications.
