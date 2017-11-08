@@ -9,3 +9,6 @@
 -- Forks - It is used to clone a repository from one GITHUB a/c to another.
    Clones - It is used to make a copy of git repository from GITHUB a/v to your machine.
    Barnches - It is used to make changes on the master file but not making changes on the master file
+
+4)What is the benefit of having a copy of the last known state of the remote stored locally?
+-- Easier for us to be updated with the team making changes.
