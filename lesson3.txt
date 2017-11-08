@@ -1,1 +1,3 @@
 # reflections
+1)When would you want to use a remote repository rather than keeping all your work local?
+--Remote repository helps us to make the project many people working on easy.As many people can add their work and thus HUB is created.
