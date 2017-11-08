@@ -1,3 +1,6 @@
 # reflections
 1)When would you want to use a remote repository rather than keeping all your work local?
 --Remote repository helps us to make the project many people working on easy.As many people can add their work and thus HUB is created.
+
+2)Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+--So that we are aware of the commits actually getting into our computer
