@@ -15,3 +15,6 @@
 
 5)How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 -- It'll be very hard.
+
+6)When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+-- Master branch is the branch which is the most sophisticated branch in the project and adding changes to it means that the changes are bug less. In real world, it is not possible to have code that you just wrote to be bug less , So we need branches so that we can keep master barnchas it is and keep making changes in separate branch and later when the code is bugfree and after all the consultation we can add it to the master branch.
